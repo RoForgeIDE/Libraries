@@ -1,45 +1,83 @@
-# © 2025 RoForgeIDE — All Rights Reserved
+# RoForgeIDE Proprietary License  
+© 2025 RoForgeIDE — All Rights Reserved
 
-# License Terms
-
-This software is **privately owned**. By using RoForgeIDE, you agree to the following terms:
-
----
-
-## What You *May* Do
-
-### **Use the Program Commercially**
-You are permitted to use this software commercially.  
-**Commercial use includes** content such as YouTube tutorials, reviews, or other monetized social media content.
-
-### **Modify the Software for Contributive Purposes Only**
-You may modify the software **solely for contributing improvements** back to the official RoForgeIDE project.  
-**You may NOT distribute modified versions.**
+This is a proprietary software license. By downloading, using, modifying, or accessing RoForgeIDE ("the Software"), you agree to the following legally binding terms:
 
 ---
 
-## What You *May Not* Do
-
-- ❌ Sell this software by any means.  
-- ❌ Redistribute this software through any third-party sources.  
-- ❌ Redistribute *any* modified versions of RoForgeIDE.  
-
-All rights remain with the original author(s).
+## 1. Ownership
+RoForgeIDE and all associated assets are the exclusive property of the Software Owner.  
+All rights not expressly granted in this License are reserved.
 
 ---
 
-## Modifications & Extensions
+## 2. Permitted Uses
 
-You are encouraged to create **Extensions or Plugins** for this tool.
+### 2.1 Commercial Usage
+You are permitted to use the Software commercially.  
+This includes use in monetized content such as YouTube tutorials, educational videos, reviews, and social media demonstrations.
 
-You **may distribute** your Extensions/Plugins **for free or for a paid cost**, as they are considered separate works from the core software.
+### 2.2 Modifications for Contribution
+You may modify the Software **only** for the purpose of contributing improvements back to the official RoForgeIDE project.
+
+- Such modifications must be submitted as contributions (e.g., via pull request).
+- You **may not** distribute modified versions of the Software in any form.
+
+---
+
+## 3. Prohibited Actions
+You may **not**:
+
+- Sell, license, or otherwise commercialize the Software itself.  
+- Redistribute the Software through any third-party platforms or sources.  
+- Distribute modified versions of the Software, publicly or privately.  
+- Remove or alter copyright notices.
+
+Any unauthorized distribution or sale is strictly prohibited.
 
 ---
 
-## Extension Upload Process
+## 4. Extensions & Plugins
 
-All Extensions are considered **Unofficial** unless they are submitted to and accepted into the **RoForgeIDE Extensions Marketplace**.
+You are allowed and encouraged to develop **Extensions or Plugins** that interface with the Software.  
+These extensions:
 
-The Extensions Marketplace uses **manual review** to ensure quality, compatibility, and safety.
+- May be distributed independently,
+- May be sold or offered for free,  
+- Are considered **separate works**, provided they do not contain or redistribute any part of RoForgeIDE’s proprietary code.
 
 ---
+
+## 5. Extension Marketplace
+
+Extensions are considered **Unofficial** unless submitted to the RoForgeIDE Extensions Marketplace.  
+Marketplace submissions undergo **manual review** for compliance, safety, and compatibility.
+
+The Software Owner reserves the right to approve, reject, or remove extensions at any time.
+
+---
+
+## 6. Liability & Warranty
+
+The Software is provided **“as is”**, without warranty of any kind, express or implied.  
+The Software Owner is not liable for:
+
+- Damages arising from the use or inability to use the Software,  
+- Loss of data, business interruption, or indirect damages.
+
+---
+
+## 7. Termination
+
+Violation of any terms in this License immediately terminates your rights to use the Software.  
+Upon termination, you must cease all use of the Software and destroy any copies in your possession.
+
+---
+
+## 8. Governing Law
+
+This License is governed by applicable laws in your jurisdiction unless otherwise required.
+
+---
+
+By using RoForgeIDE, you acknowledge that you have read, understood, and agreed to this License.
