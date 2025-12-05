@@ -50,6 +50,15 @@ class RobloxObject {
     LuaBuilder::addLine("{$this->varName}:Destroy()");
     return $this;
     }
+
+    public function wait(float $seconds = 0): self {
+    if ($seconds > 0) {
+        LuaBuilder::addLine("wait({$seconds})");
+    } else {
+        LuaBuilder::addLine("wait()");
+    }
+    return $this;
+    }
     
     public function setParent(string $parent): self {
         LuaBuilder::addLine("{$this->varName}.Parent = game.{$parent}");
