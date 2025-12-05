@@ -1,6 +1,6 @@
 # Welcome to the Libraries Repository for RoForgeIDE
-
-## This repository is Activity maintained for adding roblox Methods, and other Things that roblox adds to sudio. 
+> [!Note]
+> This repository is Activity maintained for adding roblox Methods, and other Things that roblox adds to studio. 
 
 ### Contributions:
 > Want to contribute to the Development of Our Libraries? Feel free to fork, Open Pull requests or even open issues!
