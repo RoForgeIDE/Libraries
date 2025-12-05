@@ -1,15 +1,34 @@
-# Welcome to the Libraries Repository for RoForgeIDE
+# 🛠 Libraries Repository for RoForgeIDE
+
+![GitHub contributors](https://img.shields.io/github/contributors/RoForgeIDE/Libraries?color=green)
+![GitHub issues](https://img.shields.io/github/issues/RoForgeIDE/Libraries?color=blue)
+![GitHub license](https://img.shields.io/github/license/RoForgeIDE/Libraries?color=orange)
+
 > [!Note]
-> This repository is Activity maintained for adding roblox Methods, and other Things that roblox adds to studio. 
+> This repository is **actively maintained** to add Roblox methods and other features that Roblox introduces to Studio.
 
-### Contributions:
-> Want to contribute to the Development of Our Libraries? Feel free to fork, Open Pull requests or even open issues!
+---
 
-### FAQ:
-> **Q: What is RoForgeIDE?**
-> **A: RoForgeIDE Is a Website with a Built In IDE That supports your favourite programming Languages with the goal of making roblox Game development easier by using languages you are comfortable with if you dislike Lua or are unsure how to write in Lua**
+## 🚀 Contributions
+We welcome contributions! You can help by:
+- Forking the repository  
+- Opening Pull Requests  
+- Reporting issues  
 
-### Development Team;
-> [@skyss0fly](https://github.com/skyss0fly)
+Your contributions help improve RoForgeIDE for the entire community.
 
-&copy; 2025 RoForgeIDE.
+---
+
+## ❓ FAQ
+
+**Q: What is RoForgeIDE?**  
+**A:** RoForgeIDE is a website with a **built-in IDE** that supports your favorite programming languages. Its goal is to make Roblox game development easier, especially for users who dislike Lua or are unsure how to write in Lua.
+
+---
+
+## 👥 Development Team
+- [@skyss0fly](https://github.com/skyss0fly)
+
+---
+
+&copy; 2025 RoForgeIDE
