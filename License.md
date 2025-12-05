@@ -1,20 +1,45 @@
-&copy; 2025 RoForgeIDE All Rights Reserved.
+# © 2025 RoForgeIDE — All Rights Reserved
 
-# This Software is Privately Owned.
-## What you can do:
-> # Use This Program Commercially
-> > Commercially Defined as used in social media platforms such as youtube video tutorials.
-> # Modify This software only for contributive purposes
-> > You can only modify the software only to provide support towards the development of RoForgeIDE. Any Distributions of Modified Software is not Allowed
+# License Terms
 
-## What You can't do:
-> Sell This Software through any means.
-> Redistribute this software through 3rd party sources
-> Make Modifications and then Redistribute the modified version of RoForgeIDE
+This software is **privately owned**. By using RoForgeIDE, you agree to the following terms:
 
-# Modifications:
-> You are encouraged to make Extensions or Plugins for this tool.
-> You can distribute your own Extensions or Plugins for free or at a paid cost
+---
 
-# Extension Upload Process:
-> All Extensions are considered Unofficial unless they have been added to the Extensions Marketplace. These extensions are Manually Reviewed for any issues.
+## What You *May* Do
+
+### **Use the Program Commercially**
+You are permitted to use this software commercially.  
+**Commercial use includes** content such as YouTube tutorials, reviews, or other monetized social media content.
+
+### **Modify the Software for Contributive Purposes Only**
+You may modify the software **solely for contributing improvements** back to the official RoForgeIDE project.  
+**You may NOT distribute modified versions.**
+
+---
+
+## What You *May Not* Do
+
+- ❌ Sell this software by any means.  
+- ❌ Redistribute this software through any third-party sources.  
+- ❌ Redistribute *any* modified versions of RoForgeIDE.  
+
+All rights remain with the original author(s).
+
+---
+
+## Modifications & Extensions
+
+You are encouraged to create **Extensions or Plugins** for this tool.
+
+You **may distribute** your Extensions/Plugins **for free or for a paid cost**, as they are considered separate works from the core software.
+
+---
+
+## Extension Upload Process
+
+All Extensions are considered **Unofficial** unless they are submitted to and accepted into the **RoForgeIDE Extensions Marketplace**.
+
+The Extensions Marketplace uses **manual review** to ensure quality, compatibility, and safety.
+
+---
