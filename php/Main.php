@@ -46,9 +46,9 @@ class RobloxObject {
     // Common Properties
     // -------------------
 
-    public function destroy(string $object): self {
-        LuaBuilder::addLine("{$this->varName}::Destroy()");
-        return $this;
+    public function destroy(): self {
+    LuaBuilder::addLine("{$this->varName}:Destroy()");
+    return $this;
     }
     
     public function setParent(string $parent): self {
