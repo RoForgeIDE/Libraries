@@ -2,7 +2,7 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/RoForgeIDE/Libraries?color=green)
 ![GitHub issues](https://img.shields.io/github/issues/RoForgeIDE/Libraries?color=blue)
-![GitHub license](https://img.shields.io/github/license/RoForgeIDE/Libraries?color=orange)
+[![License](./assets/license-badge.svg)](LICENSE.md)
 
 > [!Note]
 > This repository is **actively maintained** to add Roblox methods and other features that Roblox introduces to Studio.
