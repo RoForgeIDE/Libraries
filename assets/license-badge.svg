@@ -1,0 +1,16 @@
+<!-- assets/license-badge.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="20" viewBox="0 0 300 20" role="img" aria-label="License: Proprietary — Commercial OK">
+  <title>License: Proprietary — Commercial OK</title>
+  <!-- background -->
+  <rect rx="3" width="300" height="20" fill="#555"/>
+  <!-- left label -->
+  <rect x="0" y="0" width="80" height="20" rx="3" fill="#333"/>
+  <g font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#fff" text-anchor="start">
+    <text x="10" y="14">License</text>
+  </g>
+  <!-- right message -->
+  <rect x="80" y="0" width="220" height="20" rx="3" fill="#f39c12"/>
+  <g font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#111" text-anchor="start">
+    <text x="90" y="14">Proprietary · Commercial OK</text>
+  </g>
+</svg>
