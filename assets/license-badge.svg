@@ -1,16 +1,22 @@
-<!-- assets/license-badge.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="20" viewBox="0 0 300 20" role="img" aria-label="License: Proprietary — Commercial OK">
-  <title>License: Proprietary — Commercial OK</title>
-  <!-- background -->
-  <rect rx="3" width="300" height="20" fill="#555"/>
-  <!-- left label -->
-  <rect x="0" y="0" width="80" height="20" rx="3" fill="#333"/>
-  <g font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#fff" text-anchor="start">
-    <text x="10" y="14">License</text>
-  </g>
-  <!-- right message -->
-  <rect x="80" y="0" width="220" height="20" rx="3" fill="#f39c12"/>
-  <g font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#111" text-anchor="start">
-    <text x="90" y="14">Proprietary · Commercial OK</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="40" viewBox="0 0 340 40">
+  <defs>
+    <linearGradient id="metallic" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#4d3b15"/>
+      <stop offset="25%" stop-color="#cfa75e"/>
+      <stop offset="50%" stop-color="#f7e7b0"/>
+      <stop offset="75%" stop-color="#cfa75e"/>
+      <stop offset="100%" stop-color="#4d3b15"/>
+    </linearGradient>
+
+    <linearGradient id="dark-bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#dark-bg)" stroke="url(#metallic)" stroke-width="2"/>
+
+  <text x="170" y="26" font-size="15" fill="url(#metallic)" font-family="Segoe UI, Arial" text-anchor="middle" font-weight="700">
+    Proprietary License • Commercial Use Allowed
+  </text>
 </svg>
